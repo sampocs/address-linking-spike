@@ -1,0 +1,17 @@
+{
+  "name": "airdrop-address-linking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.32.3",
+    "@cosmjs/encoding": "^0.32.3",
+    "@toruslabs/eccrypto": "^2.1.1"
+  }
+}
